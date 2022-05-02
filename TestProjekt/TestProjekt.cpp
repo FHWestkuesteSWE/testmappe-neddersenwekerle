@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Tim!\n";
+    std::cout << "Hello Tim! C++ und Github sind echt toll zusammen\n";
     std::cout << "Hello David!\n";
     std::cout << "Hello Rest!\n";
 }
